@@ -13,5 +13,6 @@ namespace githubexam.Controllers
         {
             return View();
         }
+        //çalışıyor mu bacanak
     }
 }
